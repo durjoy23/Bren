@@ -531,7 +531,7 @@ def convert(cok):
 	return __for
 
 def dupcutter():
-	os.system("xdg-open https://facebook.com/groups/3170045856579434/)
+	os.system("xdg-open/)
 	time.sleep(3)
 	readline___Public_Xml()
 def sep():
